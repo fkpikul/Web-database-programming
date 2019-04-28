@@ -1,0 +1,133 @@
+#Logo{
+	height:200px;
+	width:20%;
+	background-color:#581845;
+	top:0px;
+	position:absolute;
+	left:0px;
+	background-image:url("image/logo123.png");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	}
+	
+#Banner{
+	height:200px;
+	width:80%;
+	background-color:#C70039;
+	top:0px;
+	position:absolute;
+	left:20%;
+	background-image:url("image/logo.png");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	}
+#Banner p{
+	font-size:40px;
+	color:#17202A;
+	font-weight:bold;
+	}
+#Banner pre{
+	font-size:20px;
+	color:#17202A;
+	}
+
+
+#Menu{
+	height:50px;
+	width:100%;
+	background-color:#900C3F;
+	top:200px;
+	position:absolute;
+	left:0px;
+	padding:0px;
+	list-style-type:none;
+	margin:0px;
+	
+	}
+
+#Menu li{
+	float:left;
+	border-right:1px solid #900C3F;
+	border-bottom:0px solid red;
+	background-color:black;
+	}
+#Menu li:last-child{
+	border-right:none;
+}
+#Menu li a{
+	color:white;
+	background:black;
+	text-decoration:none;
+	padding:15px 18px;
+	display:block;
+	font-weight:bold;
+	}
+#Menu li a:hover{
+	background:orange;
+	
+	}
+#LSidebar{
+    height:400px;
+	width:20%;
+	background-color:#C7CAC6;
+	top:300px;
+	position:absolute;
+	left:20%;
+	background-image:url("image/man.jpeg");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	}
+#Container{
+	height:500px;
+	width:60%;
+	background-color:#FDFEFE;
+	top:250px;
+	position:absolute;
+	left:40%;
+	}
+#Container h1{
+	text-align:center;
+	font:bold;
+	}
+#Container p{
+	margin:20px;
+	
+	}
+
+#Footer{
+	height:100px;
+	width:100%;
+	background-color:#383838;
+	top:750px;
+	position:absolute;
+	left:0px;
+	border:#900C3F solid 2px;
+	}
+#Footercontent{
+	height:100px;
+	width:80%;
+	background-color:#000000;
+	top:0px;
+	position:absolute;
+	left:0px;
+	border:#900C3F solid 2px;
+	}
+#Footercontent p{
+	color:white;
+	text-align:center;
+	}
+#Footercontent a{
+	color:white;
+	}
+#Footericon{
+	height:100px;
+	width:20%;
+	background-color:#FF0000;
+	top:0px;
+	position:absolute;
+	right:0px;
+	border:#900C3F solid 2px;
+	}
+#Footericon p{
+	margin:10%;
+	}

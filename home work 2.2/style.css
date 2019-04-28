@@ -1,0 +1,203 @@
+#Logo{
+	height:150px;
+	width:20%;
+	background-color:#581845;
+	top:0px;
+	position:absolute;
+	left:0px;
+	border:#900C3F solid 2px;
+	background-image:url("image/logo123.png");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	}
+	
+#Banner{
+	height:150px;
+	width:80%;
+	background-color:#C70039;
+	top:0px;
+	position:absolute;
+	left:20%;
+	border:#900C3F solid 2px;
+	background-image:url("image/logo.png");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	}
+#Banner p{
+	font-size: 40px;
+    color: #fff;
+    font-weight: bold;
+    margin: 25px 0 -10px 15px;
+	}
+#Banner pre{
+	font-size:20px;
+	color:#fff;
+	}
+
+
+#Menu{
+	height:50px;
+	width:100%;
+	background-color:#900C3F;
+	color:#fff;
+	top:150px;
+	position:absolute;
+	left:0px;
+	border:#900C3F solid 2px;
+	}
+#Leftsidebar{
+    height:650px;
+	width:20%;
+	background-color:#C7CAC6;
+	top:200px;
+	position:absolute;
+	left:0px;
+	border:#900C3F solid 2px;
+	padding:0px;
+	background-image:url("image/tp link.jpg");
+	list-style-type:none;
+	margin:0;
+	}
+#Leftsidebar li{
+	line-height:40px;
+	border-bottom:2px solid #900C3F;
+	text-align:center;
+	background-color:black;
+	}
+#Leftsidebar li a{
+	color:white;
+	text-decoration:none;
+	padding:10px 20px;
+	font-weight:bold;
+	}
+#Leftsidebar li a:hover{
+	background:orange;
+	
+	}
+.container-wrap{
+	width:80%;
+}
+#Container1{
+	height:300px;
+	width:30%;
+	background-color:#C70039;
+	top:200px;
+	position:absolute;
+	left:20%;
+	border:#900C3F solid 2px;
+	background-image:url("image/tp link.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	color:#FFDC00;
+	}
+#Container1 p{
+	background-color:black;
+	width:120px;
+	}
+#Container2{
+	height:300px;
+	width:30%;
+	background-color:#C70039;
+	top:200px;
+	position:absolute;
+	left:50%;
+	border:#900C3F solid 2px;
+	background-image:url("image/tenda.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	color:#FFDC00;
+	}
+#Container2 p{
+	background-color:black;
+	width:120px;
+	
+	}
+#Container3{
+	height:350px;
+	width:30%;
+	background-color:#C70039;
+	top:500px;
+	position:absolute;
+	left:20%;
+	border:#900C3F solid 2px;
+	background-image:url("image/mi.jpeg");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	color:#FFDC00;
+	}
+#Container3 p{
+	background-color:black;
+	width:120px;
+	}
+#Container4{
+	height:350px;
+	width:30%;
+	background-color:#C70039;
+	top:500px;
+	position:absolute;
+	left:50%;
+	border:#900C3F solid 2px;
+	background-image:url("image/d link.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	color:#FFDC00;
+	}
+#Container4 p{
+	background-color:black;
+	width:120px;
+	}
+#RightSidebar{
+    height: 650px;
+    width: 20%;
+    background-color: #C7CAC6;
+    top: 200px;
+    position: absolute;
+	background-image:url("image/tenda.jpg");
+    right: -5px;
+    border: #900C3F solid 2px;
+
+	}
+#Footer{
+	height:100px;
+	width:100%;
+	background-color:#383838;
+	top:850px;
+	position:absolute;
+	left:0px;
+	border:#900C3F solid 2px;
+	overflow:hidden;
+	}
+#Footercontent{
+	height:100px;
+	width:80%;
+	background-color:#000000;
+	top:0px;
+	position:absolute;
+	left:0px;
+	border:#900C3F solid 2px;
+	}
+#Footercontent p{
+	color:white;
+	text-align:center;
+	}
+#Footercontent a{
+	color:white;
+	}
+#Footericon{
+	height:100px;
+	width:20%;
+	background-color:#FF0000;
+	top:0px;
+	position:absolute;
+	right:0px;
+	border:#900C3F solid 2px;
+	color: #fff;
+}
+#Footericon a {
+		color: #fff;
+		text-decoration: none;
+		display: inline-block;
+	}
+#Footericon p{
+	margin:10%;
+	}
